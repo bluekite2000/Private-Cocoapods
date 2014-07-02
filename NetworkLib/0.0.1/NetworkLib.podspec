@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license      = 'MIT (example)'
   s.author       = { "Kamil Burczyk" => "kamil.burczyk@sigmapoint.pl" }
   s.platform     = :ios, '7.0'
-    s.source       = { :git => "https://github.com/bluekite2000/networklib1.git", :tag => "0.0.1" }
+    s.source       = { :git => "https://github.com/bluekite2000/networklib2.git", :tag => "0.0.1" }
 
   s.source_files  = 'NetworkLib', 'NetworkLib/**/*.{h,m}'
   s.public_header_files = 'NetworkLib/**/*.h'
