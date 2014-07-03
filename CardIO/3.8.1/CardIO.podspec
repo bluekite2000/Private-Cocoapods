@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.authors          = { 'CardIO' => 'support@paypal.com' }
   spec.summary          = 'Credit card scanning for mobile apps'
   spec.social_media_url = 'https://twitter.com/cardio'
-  spec.source           = { :git => 'https://github.com/bluekite2000/cardio.git', :tag => "#{spec.version}" }
+  spec.source           = { :git => 'https://github.com/bluekite20001/cardio.git', :tag => "#{spec.version}" }
   spec.platform         = :ios, '6.0'
   spec.ios.deployment_target = '6.0'
   spec.requires_arc     = true
